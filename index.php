@@ -25,6 +25,9 @@ include_once("functions/fetch.php");
             <td>ID</td>
             <td>Subject Code</td>
             <td>Subject Name</td>
+            <td>Syllabus ID</td>
+            <td>Syllabus Code</td>
+            <td>Syllabus Author</td>
             <td>Action</td>
         </tr>
         <?php 
